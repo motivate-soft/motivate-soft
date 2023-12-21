@@ -152,11 +152,11 @@
 </div>
 
 ## ⚡ Status
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=motivate-soft&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=motivate-soft&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=motivate-soft&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=motivate-soft&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=motivate-soft&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=motivate-soft&theme=react&utcOffset=8)
 <h4>🔭 I’m currently learning PowerBI, Kafka</h4>
 <hr>
 
