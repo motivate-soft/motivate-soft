@@ -5,7 +5,7 @@
 
 ## ⚡ SKILLS ⚡
 
-![Views](https://komarev.com/ghpvc/?username=winnerdev2012&label=views&color=blue&style=flat)
+![Views](https://komarev.com/ghpvc/?username=motivate-soft&label=views&color=blue&style=flat)
 
 <p align="center">
 <table align="center">
