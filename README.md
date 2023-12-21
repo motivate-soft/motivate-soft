@@ -132,25 +132,6 @@
 <br>
 </div>
 
-<!-- <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=Heracles7&show_icons=true&theme=radical" alt="Heracles7"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heracles7&hide=html,css&layout=compact&theme=radical" alt="Heracles7"/>
-</p>
-
-<p  align="Right">
-
-</p>
-<p align="left">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Heracles7&theme=radical" alt="Heracles7"/>
-</p>
-
-<div align='center' width='100%'>
-  <img width='50%' height="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Heracles7&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  <a width='50%' href="https://github.com/Heracles7?tab=achievements">
-    <img src="https://github-profile-trophy.vercel.app/?username=Heracles7&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@Heracles7's trophy stats"/>
-  </a>
-</div>
-
 ## ⚡ Status
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=motivate-soft&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=motivate-soft&theme=react)
