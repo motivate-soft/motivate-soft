@@ -132,7 +132,7 @@
 <br>
 </div>
 
-## ⚡ Status
+## ⚡ Status ⚡
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=motivate-soft&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=motivate-soft&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=motivate-soft&theme=react)
