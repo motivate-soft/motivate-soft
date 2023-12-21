@@ -150,14 +150,13 @@
     <img src="https://github-profile-trophy.vercel.app/?username=Heracles7&theme=radical&no-frame=false&no-bg=true&margin-w=4&row=2&column=3"  height="250px" alt="@Heracles7's trophy stats"/>
   </a>
 </div>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heracles7&theme=github_dark) -->
 
 ## ⚡ Status
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=motivate-soft&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=motivate-soft&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=motivate-soft&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=motivate-soft&theme=react&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=motivate-soft&theme=react&utcOffset=5)
 <h4>🔭 I’m currently learning PowerBI, Kafka</h4>
 <hr>
 
