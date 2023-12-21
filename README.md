@@ -156,7 +156,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=motivate-soft&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=motivate-soft&theme=react)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=motivate-soft&theme=react)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=motivate-soft&theme=react&utcOffset=5)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=motivate-soft&theme=react)
 <h4>🔭 I’m currently learning PowerBI, Kafka</h4>
 <hr>
 
