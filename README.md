@@ -4,9 +4,6 @@
 <h4>🌱 As a dedicated, collaborative and highly skilled Software Engineer, I have accumulated much experience conducting web application development using the frontend and backend frameworks.</h4>
 
 ## ⚡ SKILLS ⚡
-
-![Views](https://komarev.com/ghpvc/?username=motivate-soft&label=views&color=blue&style=flat)
-
 <p align="center">
 <table align="center">
   <tr>
